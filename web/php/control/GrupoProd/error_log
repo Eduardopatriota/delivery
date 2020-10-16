@@ -1,0 +1,216 @@
+[25-Sep-2019 15:40:55 America/Sao_Paulo] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/jarder00/delivery/php/model/bd/ClassConnection.php on line 40
+[25-Sep-2019 15:40:55 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/jarder00/delivery/php/model/bd/ClassConnection.php on line 47
+[04-Apr-2020 22:30:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Apr-2020 22:30:21 UTC] PHP Warning:  include_once(/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:30:21 UTC] PHP Warning:  include_once(): Failed opening '/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:30:21 UTC] PHP Fatal error:  Class 'GrupoProd' not found in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 8
+[04-Apr-2020 22:30:55 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Apr-2020 22:30:55 UTC] PHP Warning:  include_once(/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:30:55 UTC] PHP Warning:  include_once(): Failed opening '/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:30:55 UTC] PHP Fatal error:  Class 'GrupoProd' not found in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 8
+[04-Apr-2020 22:31:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Apr-2020 22:31:35 UTC] PHP Warning:  include_once(/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:31:35 UTC] PHP Warning:  include_once(): Failed opening '/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:31:35 UTC] PHP Fatal error:  Class 'GrupoProd' not found in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 8
+[04-Apr-2020 22:31:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Apr-2020 22:31:53 UTC] PHP Warning:  include_once(/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:31:53 UTC] PHP Warning:  include_once(): Failed opening '/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:31:53 UTC] PHP Fatal error:  Class 'GrupoProd' not found in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 8
+[04-Apr-2020 22:33:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Apr-2020 22:33:15 UTC] PHP Warning:  include_once(/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:33:15 UTC] PHP Warning:  include_once(): Failed opening '/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[04-Apr-2020 22:33:15 UTC] PHP Fatal error:  Class 'GrupoProd' not found in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 8
+[07-Apr-2020 22:49:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Apr-2020 22:49:14 UTC] PHP Warning:  include_once(/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[07-Apr-2020 22:49:14 UTC] PHP Warning:  include_once(): Failed opening '/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[07-Apr-2020 22:49:14 UTC] PHP Fatal error:  Class 'GrupoProd' not found in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 8
+[07-Apr-2020 22:50:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Apr-2020 22:50:56 UTC] PHP Warning:  include_once(/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[07-Apr-2020 22:50:56 UTC] PHP Warning:  include_once(): Failed opening '/home2/empre380/public_html/sorveteriaicehot.com.br/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 6
+[07-Apr-2020 22:50:56 UTC] PHP Fatal error:  Class 'GrupoProd' not found in /home2/empre380/public_html/sorveteriaicehot.com.br/php/control/GrupoProd/Excluir.php on line 8
+[19-Jun-2020 23:11:27 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/public_html/deliveryV2/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php on line 6
+[19-Jun-2020 23:11:27 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/public_html/deliveryV2/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php on line 6
+[19-Jun-2020 23:11:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php on line 8
+[19-Jun-2020 23:11:52 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/public_html/deliveryV2/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php on line 6
+[19-Jun-2020 23:11:52 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/public_html/deliveryV2/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php on line 6
+[19-Jun-2020 23:11:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/public_html/deliveryV2/php/control/GrupoProd/Excluir.php on line 8
+[13-Aug-2020 01:24:21 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[13-Aug-2020 01:24:21 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[13-Aug-2020 01:24:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[13-Aug-2020 18:21:00 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[13-Aug-2020 18:21:00 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[13-Aug-2020 18:21:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[13-Aug-2020 18:25:30 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[13-Aug-2020 18:25:30 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[13-Aug-2020 18:25:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:30:38 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:30:38 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:30:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:53:13 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:53:13 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:53:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:54:19 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:54:19 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:54:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:54:48 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:54:48 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:54:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:55:57 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:55:57 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:55:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:57:43 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:57:43 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:57:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:59:21 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:59:21 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:59:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 02:59:50 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:59:50 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 02:59:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:00:58 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:00:58 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:00:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:01:42 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:01:42 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:01:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:04:21 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:04:21 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:04:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:06:01 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:06:01 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:06:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:07:05 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:07:05 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:07:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:08:27 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:08:27 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:08:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:09:21 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:09:21 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:09:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 03:19:02 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:19:02 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 03:19:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 14:09:48 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 14:09:48 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 14:09:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 14:41:53 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 14:41:53 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 14:41:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 14:43:08 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 14:43:08 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 14:43:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 22:24:24 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:24:24 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:24:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 22:28:44 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:28:44 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:28:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 22:50:58 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:50:58 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:50:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 22:58:11 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:58:11 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 22:58:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 23:05:07 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 23:05:07 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 23:05:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 23:05:14 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 23:05:14 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 23:05:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8
+[14-Aug-2020 23:06:01 America/Sao_Paulo] PHP Warning:  include_once(/home1/jarder00/delivery/php/model/GrupoProd.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 23:06:01 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/home1/jarder00/delivery/php/model/GrupoProd.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 6
+[14-Aug-2020 23:06:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/php/control/GrupoProd/Excluir.php on line 8

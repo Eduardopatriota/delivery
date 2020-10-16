@@ -1,0 +1,669 @@
+[25-Sep-2019 10:28:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home1/jarder00/delivery/Desktop/BuscPedido.php:1) in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 39
+[25-Sep-2019 10:29:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home1/jarder00/delivery/Desktop/BuscPedido.php:1) in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 39
+[25-Sep-2019 15:33:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home1/jarder00/delivery/Desktop/BuscPedido.php:133
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 133
+[25-Sep-2019 15:33:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home1/jarder00/delivery/Desktop/BuscPedido.php:133
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 133
+[25-Sep-2019 15:38:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home1/jarder00/delivery/Desktop/CadPedido.php:83
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/CadPedido.php on line 83
+[25-Sep-2019 16:56:54 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[25-Sep-2019 16:56:54 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[25-Sep-2019 16:56:54 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[25-Sep-2019 16:56:54 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[25-Sep-2019 16:56:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[25-Sep-2019 17:05:19 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[25-Sep-2019 17:05:19 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[25-Sep-2019 17:05:19 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[25-Sep-2019 17:05:19 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[25-Sep-2019 17:05:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[26-Oct-2019 23:56:29 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[26-Oct-2019 23:56:29 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[26-Oct-2019 23:56:29 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[26-Oct-2019 23:56:29 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[26-Oct-2019 23:56:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[10-Nov-2019 15:12:24 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 34
+[10-Nov-2019 15:12:24 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 34
+[10-Nov-2019 15:12:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 36
+[10-Nov-2019 15:12:59 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[10-Nov-2019 15:12:59 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[10-Nov-2019 15:12:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[21-Dec-2019 03:57:21 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[21-Dec-2019 03:57:22 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[21-Dec-2019 03:57:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[21-Dec-2019 03:57:29 America/Sao_Paulo] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[21-Dec-2019 03:57:29 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[21-Dec-2019 03:57:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php:66
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 66
+[21-Dec-2019 03:57:32 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[21-Dec-2019 03:57:32 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[21-Dec-2019 03:57:32 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[21-Dec-2019 03:57:32 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[21-Dec-2019 03:57:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[21-Dec-2019 03:57:45 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[21-Dec-2019 03:57:45 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[21-Dec-2019 03:57:45 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[21-Dec-2019 03:57:45 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[21-Dec-2019 03:57:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[21-Dec-2019 03:57:46 America/Sao_Paulo] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[21-Dec-2019 03:57:46 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[21-Dec-2019 03:57:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php:66
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 66
+[21-Dec-2019 03:57:48 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[21-Dec-2019 03:57:48 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[21-Dec-2019 03:57:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[21-Dec-2019 03:57:49 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[21-Dec-2019 03:57:49 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[21-Dec-2019 03:57:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[21-Dec-2019 03:57:54 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[21-Dec-2019 03:57:54 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[21-Dec-2019 03:57:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 36
+[21-Dec-2019 03:57:55 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 34
+[21-Dec-2019 03:57:55 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 34
+[21-Dec-2019 03:57:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 36
+[21-Dec-2019 03:57:57 America/Sao_Paulo] PHP Warning:  include_once(/php/model/bairros.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 35
+[21-Dec-2019 03:57:57 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/bairros.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 35
+[21-Dec-2019 03:57:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Bairros' not found in /home1/jarder00/delivery/Desktop/BuscBairros.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 37
+[21-Dec-2019 03:57:59 America/Sao_Paulo] PHP Warning:  include_once(/php/model/user.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscUser.php on line 34
+[21-Dec-2019 03:57:59 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/user.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscUser.php on line 34
+[21-Dec-2019 03:57:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home1/jarder00/delivery/Desktop/BuscUser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscUser.php on line 36
+[21-Dec-2019 03:58:02 America/Sao_Paulo] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscMoto.php on line 34
+[21-Dec-2019 03:58:02 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscMoto.php on line 34
+[21-Dec-2019 03:58:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscMoto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscMoto.php on line 36
+[21-Dec-2019 03:58:11 America/Sao_Paulo] PHP Warning:  include_once(/php/model/bd/Persistence.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Cardapio.php on line 20
+[21-Dec-2019 03:58:11 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/bd/Persistence.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Cardapio.php on line 20
+[21-Dec-2019 03:58:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Persistece' not found in /home1/jarder00/delivery/Desktop/Cardapio.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Cardapio.php on line 22
+[21-Dec-2019 05:09:53 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[21-Dec-2019 05:09:53 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[21-Dec-2019 05:09:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[20-Jan-2020 09:57:24 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[20-Jan-2020 09:57:24 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[20-Jan-2020 09:57:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[20-Jan-2020 09:57:28 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[20-Jan-2020 09:57:28 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[20-Jan-2020 09:57:28 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[20-Jan-2020 09:57:28 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[20-Jan-2020 09:57:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[13-Feb-2020 23:22:31 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/jarder00/delivery/php/model/bd/ClassConnection.php on line 65
+[13-Feb-2020 23:22:32 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/jarder00/delivery/php/model/bd/ClassConnection.php on line 65
+[13-Feb-2020 23:22:53 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/jarder00/delivery/php/model/bd/ClassConnection.php on line 65
+[24-Feb-2020 14:52:54 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[24-Feb-2020 14:52:54 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[24-Feb-2020 14:52:54 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[24-Feb-2020 14:52:54 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[24-Feb-2020 14:52:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[27-Feb-2020 14:48:27 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[27-Feb-2020 14:48:27 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[27-Feb-2020 14:48:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[27-Feb-2020 14:48:32 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[27-Feb-2020 14:48:32 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[27-Feb-2020 14:48:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 36
+[27-Feb-2020 15:00:00 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[27-Feb-2020 15:00:00 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[27-Feb-2020 15:00:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 36
+[13-Mar-2020 15:30:17 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[13-Mar-2020 15:30:17 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[13-Mar-2020 15:30:17 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[13-Mar-2020 15:30:17 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[13-Mar-2020 15:30:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[23-Mar-2020 22:46:10 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[23-Mar-2020 22:46:10 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[23-Mar-2020 22:46:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[23-Mar-2020 22:46:23 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[23-Mar-2020 22:46:23 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[23-Mar-2020 22:46:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[23-Mar-2020 22:46:27 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[23-Mar-2020 22:46:27 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[23-Mar-2020 22:46:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 36
+[27-Mar-2020 10:17:31 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[27-Mar-2020 10:17:31 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[27-Mar-2020 10:17:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[27-Mar-2020 10:17:35 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[27-Mar-2020 10:17:35 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[27-Mar-2020 10:17:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[27-Mar-2020 10:17:37 America/Sao_Paulo] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[27-Mar-2020 10:17:37 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[27-Mar-2020 10:17:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php:66
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 66
+[27-Mar-2020 10:17:39 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[27-Mar-2020 10:17:39 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[27-Mar-2020 10:17:39 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[27-Mar-2020 10:17:39 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[27-Mar-2020 10:17:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[27-Mar-2020 10:17:49 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[27-Mar-2020 10:17:49 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[27-Mar-2020 10:17:49 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[27-Mar-2020 10:17:49 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[27-Mar-2020 10:17:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[27-Mar-2020 10:17:51 America/Sao_Paulo] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[27-Mar-2020 10:17:51 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[27-Mar-2020 10:17:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php:66
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 66
+[27-Mar-2020 10:17:52 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[27-Mar-2020 10:17:52 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[27-Mar-2020 10:17:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[27-Mar-2020 10:17:54 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[27-Mar-2020 10:17:54 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[27-Mar-2020 10:17:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[29-Mar-2020 16:32:44 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[29-Mar-2020 16:32:44 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[29-Mar-2020 16:32:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[29-Mar-2020 16:32:47 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[29-Mar-2020 16:32:47 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[29-Mar-2020 16:32:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[04-Apr-2020 10:40:02 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[04-Apr-2020 10:40:02 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 34
+[04-Apr-2020 10:40:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 36
+[04-Apr-2020 10:40:05 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[04-Apr-2020 10:40:05 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[04-Apr-2020 10:40:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 36
+[04-Apr-2020 14:08:56 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[04-Apr-2020 14:08:56 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[04-Apr-2020 14:08:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 36
+[04-Apr-2020 14:09:06 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[04-Apr-2020 14:09:06 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 34
+[04-Apr-2020 14:09:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 36
+[06-Apr-2020 07:38:59 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[06-Apr-2020 07:38:59 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[06-Apr-2020 07:38:59 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[06-Apr-2020 07:38:59 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[06-Apr-2020 07:38:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[07-Apr-2020 09:36:04 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[07-Apr-2020 09:36:04 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 119
+[07-Apr-2020 09:36:04 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido_item.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[07-Apr-2020 09:36:04 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido_item.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 120
+[07-Apr-2020 09:36:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:122
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 122
+[24-Apr-2020 19:00:25 America/Sao_Paulo] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[24-Apr-2020 19:00:25 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 64
+[24-Apr-2020 19:00:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php:66
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 66
+[24-Apr-2020 19:00:38 America/Sao_Paulo] PHP Warning:  include_once(/php/model/bd/Persistence.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Cardapio.php on line 20
+[24-Apr-2020 19:00:38 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/bd/Persistence.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Cardapio.php on line 20
+[24-Apr-2020 19:00:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Persistece' not found in /home1/jarder00/delivery/Desktop/Cardapio.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Cardapio.php on line 22
+[05-May-2020 08:34:44 America/Sao_Paulo] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscMoto.php on line 34
+[05-May-2020 08:34:44 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscMoto.php on line 34
+[05-May-2020 08:34:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscMoto.php:36
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscMoto.php on line 36
+[17-Jul-2020 13:15:59 America/Fortaleza] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php on line 92
+[17-Jul-2020 13:15:59 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php on line 92
+[17-Jul-2020 13:15:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php on line 94
+[22-Jul-2020 16:26:04 America/Fortaleza] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php on line 92
+[22-Jul-2020 16:26:04 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php on line 92
+[22-Jul-2020 16:26:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/public_html/delivery3/Desktop/BuscPedido.php on line 94
+[14-Aug-2020 14:06:37 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 56
+[14-Aug-2020 14:06:37 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 56
+[14-Aug-2020 14:06:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto2.php:58
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 58
+[14-Aug-2020 14:06:41 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/CadProduto.php on line 92
+[14-Aug-2020 14:06:41 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/CadProduto.php on line 92
+[14-Aug-2020 14:06:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/CadProduto.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/CadProduto.php on line 94
+[14-Aug-2020 14:06:48 America/Sao_Paulo] PHP Warning:  include_once(/php/model/bairros.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 35
+[14-Aug-2020 14:06:48 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/bairros.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 35
+[14-Aug-2020 14:06:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Bairros' not found in /home1/jarder00/delivery/Desktop/BuscBairros.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 37
+[14-Aug-2020 14:06:50 America/Sao_Paulo] PHP Warning:  include_once(/php/model/bairros.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 35
+[14-Aug-2020 14:06:50 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/bairros.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 35
+[14-Aug-2020 14:06:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Bairros' not found in /home1/jarder00/delivery/Desktop/BuscBairros.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscBairros.php on line 37
+[14-Aug-2020 14:06:57 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 56
+[14-Aug-2020 14:06:57 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 56
+[14-Aug-2020 14:06:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto2.php:58
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 58
+[14-Aug-2020 14:07:04 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 55
+[14-Aug-2020 14:07:04 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 55
+[14-Aug-2020 14:07:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:57
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 57
+[14-Aug-2020 14:07:07 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 65
+[14-Aug-2020 14:07:07 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 65
+[14-Aug-2020 14:07:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 67
+[14-Aug-2020 14:07:09 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 55
+[14-Aug-2020 14:07:09 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 55
+[14-Aug-2020 14:07:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:57
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 57
+[14-Aug-2020 14:07:12 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[14-Aug-2020 14:07:12 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 32
+[14-Aug-2020 14:07:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/BuscClientes.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscClientes.php on line 34
+[16-Aug-2020 09:48:11 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 55
+[16-Aug-2020 09:48:11 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 55
+[16-Aug-2020 09:48:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto.php:57
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto.php on line 57
+[17-Aug-2020 13:09:08 America/Sao_Paulo] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/jarder00/delivery/php/model/bd/ClassConnection.php on line 65
+[17-Aug-2020 14:22:15 America/Fortaleza] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[17-Aug-2020 14:22:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[17-Aug-2020 14:22:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 94
+[17-Aug-2020 14:23:21 America/Sao_Paulo] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 65
+[17-Aug-2020 14:23:21 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 65
+[17-Aug-2020 14:23:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscGrupProduto.php on line 67
+[17-Aug-2020 21:07:18 America/Sao_Paulo] PHP Warning:  include_once(/php/model/prod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 56
+[17-Aug-2020 21:07:18 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/prod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 56
+[17-Aug-2020 21:07:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Prod' not found in /home1/jarder00/delivery/Desktop/BuscProduto2.php:58
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscProduto2.php on line 58
+[21-Aug-2020 23:21:49 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[21-Aug-2020 23:21:49 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[21-Aug-2020 23:21:49 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 94
+[24-Aug-2020 10:43:12 America/Fortaleza] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 65
+[24-Aug-2020 10:43:12 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 65
+[24-Aug-2020 10:43:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 67
+[24-Aug-2020 09:43:13 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[24-Aug-2020 09:43:13 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[24-Aug-2020 09:43:13 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 94
+[24-Aug-2020 10:43:15 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[24-Aug-2020 10:43:15 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[24-Aug-2020 10:43:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[25-Aug-2020 10:17:25 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[25-Aug-2020 10:17:25 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[25-Aug-2020 10:17:25 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 94
+[25-Aug-2020 11:17:27 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Aug-2020 11:17:27 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Aug-2020 11:17:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[29-Aug-2020 08:09:40 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[29-Aug-2020 08:09:40 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 92
+[29-Aug-2020 08:09:40 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:94
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 94
+[04-Sep-2020 21:11:42 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[04-Sep-2020 21:11:42 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[04-Sep-2020 21:11:42 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[05-Sep-2020 21:34:43 America/Manaus] PHP Warning:  include_once(/php/model/bairros.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoResulm.php on line 67
+[05-Sep-2020 21:34:43 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/bairros.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoResulm.php on line 67
+[05-Sep-2020 21:34:43 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'Bairros' not found in /home1/jarder00/delivery/Desktop/BuscPedidoResulm.php:69
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoResulm.php on line 69
+[05-Sep-2020 21:40:06 America/Manaus] PHP Warning:  date() expects parameter 2 to be integer, object given in /home1/jarder00/delivery/Desktop/BuscPedidoResulm.php on line 88
+[05-Sep-2020 21:40:47 America/Manaus] PHP Warning:  date() expects parameter 2 to be integer, object given in /home1/jarder00/delivery/Desktop/BuscPedidoResulm.php on line 88
+[05-Sep-2020 21:40:47 America/Manaus] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in /home1/jarder00/delivery/Desktop/BuscPedidoResulm.php on line 88
+[25-Sep-2020 18:18:27 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:27 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[25-Sep-2020 18:18:30 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:30 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[25-Sep-2020 18:18:41 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:41 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[25-Sep-2020 18:18:52 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:52 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[25-Sep-2020 18:18:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[26-Sep-2020 17:01:36 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:01:36 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:01:36 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 17:25:54 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:25:54 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:25:54 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 17:25:55 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:25:55 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:25:55 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 17:25:58 America/Manaus] PHP Warning:  include_once(/php/model/motoboy.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 65
+[26-Sep-2020 17:25:58 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/motoboy.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 65
+[26-Sep-2020 17:25:58 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'MotoBoy' not found in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php:67
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedidoMotoy.php on line 67
+[26-Sep-2020 17:25:59 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:25:59 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:25:59 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 17:26:07 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:26:07 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:26:07 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:26:08 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[26-Sep-2020 18:26:08 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[26-Sep-2020 18:26:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[26-Sep-2020 17:26:10 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:26:10 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:26:10 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 17:34:14 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:34:14 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 17:34:14 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:03:58 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:03:58 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:03:58 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:04:04 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:04:04 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:04:04 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:04:12 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:04:12 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:04:12 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:07:51 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:07:51 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:07:51 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:10:47 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:10:47 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:10:47 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:17:01 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:17:01 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:17:01 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:18:16 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:18:16 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:18:16 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[26-Sep-2020 18:21:11 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:21:11 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[26-Sep-2020 18:21:11 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[09-Oct-2020 18:11:53 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:53 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:53 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[09-Oct-2020 18:11:55 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:55 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:55 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[09-Oct-2020 18:11:56 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:56 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:56 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[09-Oct-2020 19:11:57 America/Sao_Paulo] PHP Warning:  include_once(/php/model/pedido.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[09-Oct-2020 19:11:57 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening '/php/model/pedido.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/Home.php on line 12
+[09-Oct-2020 19:11:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Pedido' not found in /home1/jarder00/delivery/Desktop/Home.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/Home.php on line 14
+[09-Oct-2020 18:11:59 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:59 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:11:59 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[09-Oct-2020 18:12:05 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:12:05 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[09-Oct-2020 18:12:05 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[11-Oct-2020 18:24:30 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:30 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:30 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[11-Oct-2020 18:24:32 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:32 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:32 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[11-Oct-2020 18:24:33 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:33 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:33 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[11-Oct-2020 18:24:34 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:34 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:34 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
+[11-Oct-2020 18:24:35 America/Manaus] PHP Warning:  include_once(/php/model/grupoprod.php): failed to open stream: No such file or directory in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:35 America/Manaus] PHP Warning:  include_once(): Failed opening '/php/model/grupoprod.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 86
+[11-Oct-2020 18:24:35 America/Manaus] PHP Fatal error:  Uncaught Error: Class 'GrupoProd' not found in /home1/jarder00/delivery/Desktop/BuscPedido.php:88
+Stack trace:
+#0 {main}
+  thrown in /home1/jarder00/delivery/Desktop/BuscPedido.php on line 88
